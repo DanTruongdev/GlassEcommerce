@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD5ngOaWBLkCUj9E4r3+vNwAAAAACAAAAAAAQZgAAAAEAACAAAACSzkfuHLQ+rrfyxwvggzBxcUG+YYV0hp2pgYiWAui26QAAAAAOgAAAAAIAACAAAABXLHrkT3K425He+cYSzdHR+OYXrKQaCB59xIMz1nawLCAAAACfFersAxlfXtBJq1FA8UiiWdNJls/eFWmErd8vYG3/e0AAAABEt2OWgrPQ/DI4PqrNfyDtMSdhkV1kSkOla7Uiema54GHHKOmSlTOvl7TR8vIVzS5nSYuSJeYeXsM+Dx1gCQ9i</EncryptedPassword>
+    <History>False|2024-04-24T14:59:54.0635022Z;False|2024-04-24T21:59:15.5695028+07:00;False|2024-04-24T21:58:47.5786251+07:00;False|2024-04-24T21:58:26.6240099+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=DucAnhDb.mssql.somee.com%3bpacket size=4096%3buser id=DucAnhHocGioi_SQLLogin_1%3bpwd=nibccc35gt%3bdata source=DucAnhDb.mssql.somee.com%3bpersist security info=False%3binitial catalog=DucAnhDb%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

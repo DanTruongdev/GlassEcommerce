@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2024-04-21T20:19:21.8559394Z;True|2024-04-22T03:05:40.0232186+07:00;True|2024-04-22T03:00:33.7557139+07:00;True|2024-04-22T02:57:42.3765140+07:00;True|2024-04-22T02:43:28.4125342+07:00;True|2024-04-22T02:39:06.1801498+07:00;False|2024-04-22T02:38:20.8555910+07:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>D:\.Job\Glass\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

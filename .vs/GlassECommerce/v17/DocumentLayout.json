@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.DucAnhASM\\Final\\GlassECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|d:\\.ducanhasm\\final\\glassecommerce\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|solutionrelative:services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|d:\\.ducanhasm\\final\\glassecommerce\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|d:\\.ducanhasm\\final\\glassecommerce\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|d:\\.ducanhasm\\final\\glassecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|d:\\.ducanhasm\\final\\glassecommerce\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|d:\\.ducanhasm\\final\\glassecommerce\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E2014D-BBB9-4361-9179-EC61F6543999}|GlassECommerce.csproj|solutionrelative:services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\FeedbackService.cs",
+              "ToolTip": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "Services\\FeedbackService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAJ0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:47:29.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:48:54.573Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvx4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:53:05.305Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAwwAUBAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:56:47.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEYDAAAAAAAAAAAiwC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:49:58.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\.DucAnhASM\\Final\\GlassECommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAwwGcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:40:25.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
